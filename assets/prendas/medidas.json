@@ -1,0 +1,92 @@
+{
+ "penarol-retro": {
+  "frente": [
+   707,
+   900
+  ],
+  "espalda": [
+   706,
+   900
+  ]
+ },
+ "uruguay-suarez": {
+  "frente": [
+   732,
+   900
+  ],
+  "espalda": [
+   711,
+   900
+  ]
+ },
+ "boca-paredes": {
+  "frente": [
+   749,
+   900
+  ],
+  "espalda": [
+   743,
+   900
+  ]
+ },
+ "real-madrid-valverde": {
+  "frente": [
+   807,
+   900
+  ],
+  "espalda": [
+   760,
+   900
+  ]
+ },
+ "noruega-haaland": {
+  "frente": [
+   856,
+   900
+  ],
+  "espalda": [
+   806,
+   900
+  ]
+ },
+ "deportivo-gimenez": {
+  "frente": [
+   885,
+   900
+  ],
+  "espalda": [
+   857,
+   900
+  ]
+ },
+ "bayern-buzo": {
+  "frente": [
+   715,
+   900
+  ],
+  "espalda": [
+   681,
+   900
+  ]
+ },
+ "brasil-buzo": {
+  "frente": [
+   758,
+   900
+  ],
+  "espalda": [
+   736,
+   900
+  ]
+ },
+ "north-face-campera": {
+  "frente": [
+   762,
+   900
+  ],
+  "espalda": [
+   704,
+   900
+  ]
+ }
+}
